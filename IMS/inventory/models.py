@@ -1,4 +1,4 @@
-# inventory/models.py
+
 from email.policy import default
 from django.db import models
 from django.contrib.auth.models import User
